@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="axmc.png">
+<SubTexture name="idle0000" x="0" y="0" width="370" height="708" frameX="-392" frameY="-185" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0001" x="370" y="0" width="369" height="707" frameX="-393" frameY="-186" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0002" x="1104" y="0" width="368" height="706" frameX="-395" frameY="-187" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0003" x="365" y="708" width="366" height="704" frameX="-397" frameY="-189" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0004" x="0" y="708" width="365" height="705" frameX="-399" frameY="-188" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0005" x="739" y="0" width="365" height="707" frameX="-400" frameY="-186" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="sign0000" x="731" y="708" width="342" height="387" frameX="-477" frameY="-492" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
